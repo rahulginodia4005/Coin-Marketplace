@@ -1,0 +1,9 @@
+
+
+# networks:
+#   developments:
+#     verify : False
+#   ganache:
+#     verify: False
+#   kovan:
+#     verify: True
